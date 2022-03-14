@@ -1,6 +1,8 @@
 # TypeApi
 
-一直以类型为核心的基于 JSON 的类 REST API 描述文档
+一种以类型为核心的基于 JSON 的类 REST API 描述文档
+
+并不能描述所有 REST API 情况也不打算那么做
 
 ## 文件根
 
